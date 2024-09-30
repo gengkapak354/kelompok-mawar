@@ -55,8 +55,8 @@ section img {
 }
 
 h2 {
-    margin-top: 10px;    /* Mengatur jarak di atas elemen h2 */
-    margin-bottom: 200px; /* Mengatur jarak di bawah elemen h2 */
+    margin-top: 10px;   
+    margin-bottom: 200px;
 }
 
 table {
@@ -163,25 +163,7 @@ h2, h3 {
     align-items: center; /* Mengatur posisi ke tengah */
     margin: 10px;
 }
-/*
-.gallery .team-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
-    justify-items: center;
-    align-items: center;
-}
 
-.image-container {
-    text-align: center;
-}
-
-.lomba-member img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%;
-}
-*/
 
 .upacara-bendera img {
     max-width: 100%;
